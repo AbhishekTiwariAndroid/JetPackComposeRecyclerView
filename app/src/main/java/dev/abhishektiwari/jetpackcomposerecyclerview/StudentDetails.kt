@@ -1,0 +1,40 @@
+package dev.abhishektiwari.jetpackcomposerecyclerview
+
+object StudentDetails {
+    val studentDetailsList  = listOf(
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+        Details("Hello how are you "),
+        Details("I'm fine ,  how are you "),
+        Details("Hello android dev here "),
+
+    )
+}
